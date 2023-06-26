@@ -1,0 +1,43 @@
+.itemFondo{
+    background: rgb(255, 254, 254);
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    
+
+    
+}
+
+
+.sexo{
+    font-size: 40px;
+}
+
+.numero{
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.cm{
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: -1px;
+
+}
+p{
+    margin: 0;
+}
+
+.sumaResta {
+    background-color: rgb(202, 205, 203);
+    padding: 7px;
+    border-radius: 50%;
+    margin: 2px;
+      cursor: pointer;
+
+}
+
+
+.desactivarFondo{
+    background-color: aqua;
+}

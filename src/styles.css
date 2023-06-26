@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    background:rgb(28, 24, 24) ;
+}
+.titulo{
+    text-align: center;
+    color: white;
+    margin-top: 25px;
+    font-family: 'Belanosima', sans-serif;
+
+}
+
+.row{
+    margin-top: 20px;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
